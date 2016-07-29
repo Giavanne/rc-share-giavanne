@@ -1,0 +1,80 @@
+*{
+  font-family: "lato";
+  font-weight: lighter;
+
+}
+body{
+  width: 650px;
+
+}
+img{
+  max-width: 100%;
+}
+h1 a{
+  color: red;
+  font-size: 50px;
+  text-decoration: none;
+}
+title{
+  color: black;
+  font-size: 50px;
+}
+header nav a{
+  color: lightgrey;
+  font-size: 25px;
+  padding-left: 10px;
+  margin-bottom: 70;
+
+
+}
+h2{
+  color: black;
+  font-size: 25px;
+
+}
+article h3{
+  color: lightgrey;
+  font-size: 35px;
+  margin-top: 65px;
+  margin-bottom:0px;
+
+}
+article h2 a {
+  color: black;
+  font-size: 40px;
+  text-decoration: none;
+  margin: 0;
+
+}
+article h4 a {
+  color: red;
+}
+#newyork_img{
+  width: 650px;
+  height: 150px;
+
+}
+article p {
+  width: 650px;
+  border: blue;
+  padding:10px;
+  margin: 15px;
+}
+article h4 {
+  float: right;
+
+}
+article p::first-letter{
+  font-size:90px;
+  color: lightgrey;
+  font-weight: lighter;
+  float: left;
+  margin: -20px 0px 0px 0px
+}
+footer nav a {
+  color: red;
+
+}
+footer p::first-letter{
+  font-size: 20px;
+}
